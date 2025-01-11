@@ -1,13 +1,12 @@
-<h2 align="left">Olá 👋</h2>
+# 👩🏻‍💻 Luanai Machado
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=seaturrn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seaturrn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+**`Desenvolvedora FullStack`**
 
-###
+Me chamo Luanai Machado, tenho 24 anos e sou natural do Rio de Janeiro. 
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
+
+### 🤖 Linguagens e Tecnologias
+
 
 ###
 
@@ -45,3 +44,19 @@
 
 
 ###
+
+
+### 📊 Estatísticas
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=seaturrn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seaturrn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
+
+
+
+  
